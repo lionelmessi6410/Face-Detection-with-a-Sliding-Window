@@ -2,7 +2,6 @@
 
 <center>
 <img src="README_files/hw4face_girls.png" width="410" >
-<br>
 (Example face detection results from anXDdd.)
 </center>
 
